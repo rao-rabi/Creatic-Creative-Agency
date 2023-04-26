@@ -24,7 +24,7 @@ nav {
     background: linear-gradient(to right, black 62%, rgb(44, 5, 117));
   }
 .box {
-  height: 5vh;
+  height: 40px;
   display: flex;
   cursor: pointer;
   padding: 10px 20px;
@@ -98,7 +98,7 @@ nav {
 }
 .workallhov:hover{
     transform: scale(1.2);
-    z-index: 3;
+    z-index: 2;
     cursor: pointer;
 }
 /* testimonials */
